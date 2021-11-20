@@ -6,4 +6,4 @@ kolejność wykonywania przy starcie aplikacji:
 		jeśli będzie spring.jpa.hibernate.ddl-auto=update to poprawi istniejącą ze schema.sql wg encji
 		
 		
-tutorial do rozbudowania obecnego: https://www.bezkoder.com/spring-boot-jpa-h2-example
+tutorial do rozbudowania obecnego: https://www.bezkoder.com/spring-boot-jpa-h2-example --
